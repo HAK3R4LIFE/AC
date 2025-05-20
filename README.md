@@ -43,7 +43,7 @@ you need in relation to AssaultCube.
 ## Contributing:
 
 Learn [how to become a contributor and submit your own code](CONTRIBUTING.md)
-Submit any issues, suggestions, bugs or vulnerabilities you might have!
+ * Submit any issues, suggestions, bugs or vulnerabilities you might have!
 
 ## Redistribution:
 
