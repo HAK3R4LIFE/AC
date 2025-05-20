@@ -1,6 +1,6 @@
 ## What is AssaultCube?
 AssaultCube is a **FREE**, multiplayer, first-person shooter game, based on the
-[CUBE engine](http://cubeengine.com/cube.php).
+[CUBE engine](http://cubeengine.com/cube.php) and Counter-Strike 1.6.
 
 Taking place in realistic environments, with fast, arcade gameplay,
 it's addictive and fun!
@@ -32,6 +32,7 @@ On the correct settings, it can even run on old hardware (Pentium III and above)
  Capture the Flag, Hunt the Flag, Keep the Flag, Pistol Frenzy, Last Swiss
  Standing & One-Shot One-Kill (plus team versions of these modes).
  * Comes pre-packaged with several dozen different maps!
+ * Several weapon classes for unique gameplay or hardcore strategy!
 
 ## More info:
 
@@ -42,6 +43,7 @@ you need in relation to AssaultCube.
 ## Contributing:
 
 Learn [how to become a contributor and submit your own code](CONTRIBUTING.md)
+Submit any issues, suggestions, bugs or vulnerabilities you might have!
 
 ## Redistribution:
 
