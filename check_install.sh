@@ -42,7 +42,7 @@ CHKSUMFILE="packages/misc/checksums_md5.txt"
 if [ -e $CHKSUMFILE ]; then
   echo "checking installed game files:"
   if md5sum -c $CHKSUMFILE --status; then
-    echo " all files of the AC package are checked and OK"
+    echo " All AC package files are verified"
   else
     echo " some files of your AC installation appear to be missing or damaged"
     read -p " press enter, to see the list of files..." -r dummy
