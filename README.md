@@ -36,7 +36,7 @@ Recommended to run the insane graphics settings for modern machines.
  * Comes pre-packaged with several dozen different maps!
  * Several weapon classes for unique gameplay or hardcore strategy!
 
-## More info:
+## Documentation:
 
 Most of this README was directly copied from the
 [AssaultCube Homepage](https://assault.cubers.net), which should have everything
